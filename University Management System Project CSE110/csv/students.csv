@@ -1,0 +1,6 @@
+ID,Name,Gender,Birthdate,AdmissionDate,Department,Semester,CGPA,ContactNumber
+600201,Akash Chandra Nath,Male,02/02/2000,02/02/2023,Computer Science,3rd,3.55,0145895554
+600202,Md. Arifur Rahaman Shihab,Male,02/02/2000,02/02/2023,Computer Science,3rd,3.77,123456789
+600203,Mahadi Billa Ribbi,Male,02/02/2000,02/02/2000,Computer Science,3rd,3.9,12345657889
+600204,AH Israt,Male,02/02/2003,02/02/2023,Computer Science,3rd,3.50,123456789
+600205,Mahi,Female,02/02/2020,02/02/2023,Computer Science,4th,3.00,123456789

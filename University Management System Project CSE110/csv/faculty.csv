@@ -1,0 +1,39 @@
+ID,Name,Department,Salary,Designation
+6001,Dr. Md. Mozammel Huq Azad Khan,Computer Science,200000,Professor
+6002,Dr. Shamim H Ripon,Computer Science,200000,Professor
+6003,Dr. Md. Nawab Yousuf Ali,Computer Science,200000,Professor
+6004,Dr. Ahmed Wasif Reza,Computer Science,200000,Profeesor
+6005,Dr. Taskeed Jabid,Computer Science,210000,Associate Professor
+6006,Dr. Maheen Islam,Computer Science,210000,Chairperson
+6007,Dr. Mohammad Rezwanul Huq,Computer Science,180000,Associate Professor
+6008,Dr. Anisur Rahaman,Computer Science,180000,Associate Professor
+6009,Mohammad Arifuzzaman ,Computer Science,180000,Associate Professor
+6010,Dr. Sarwar Jahan,Computer Science,180000,Associate Professor
+6011,Dr. Mohammad Salah Uddin,Computer Science,180000,Associate Professor
+6012,Dr. Anup Kumar Paul,Computer Science,180000,Associate Professor
+6013,Dr. Md Sawakat Ali,Computer Science,180000,Associate Professor
+6014,Dr. Raihan UI Islam,Computer Science,180000,Associate Professor
+6015,Dr. Md Mostafa Kamal Rasel,Computer Science,180000,Assistant Professor
+6016,Dr. Mohammad Rifat Ahmmad Rashid,Computer Science,180000,Assistant Professor
+6017,Dr. Mohammad Manzurul Islam,Computer Science,180000,Assistant Professor
+6018,Dr. Abdullahil AL Kafee Chowdhury,Computer Science,190000,Assistant Professor
+6019,Dr. Md. Hasanul Ferdaus,Computer Science,190000,Assistant Professor
+6020,Dr. Hasan Mahmood Aminul Islam,Computer Science,190000,Assistant Professor
+6021,Dr. Md. Atiqur Rahman,Computer Science,190000,Assistant Professor
+6022,Rashedul Amin Tuhin,Computer Science,160000,Senior Lecturer
+6023,Tanni Mittra,Computer Science,160000,Senior Lecturer
+6101,Dr. Anisul Haque,EEE,200000,Professor
+6102,Khairul Alam,EEE,200000,Professor
+6103,Dr. Mohammad Ryyan Khan,EEE,210000,Chairperson
+6201,Dr. Md. Naimul Haque,Civil,200000,Chairperson
+6202,Dr. Md. Tawfiq Sarwar,Civil,180000,Asoociate Professor
+7701,Suraia Nusrin,GEB,200000,Chairperson
+4001,Dr. Nabaat Tasnima Mahbub,LLB,200000,Chairperson
+4101,Dr. Farhana Ferdousi,BBA,200000,Chairperson
+6301,Dr. Md. Amirul Islam,Pharm,200000,Chairperson
+4201,Dr. Akhter Jahan,English,200000,Chairperson
+4301,Dr. Mantasir Chaudhury,Economics,200000,Chairperson
+4401,Dr. Dilara Begum,IS,200000,Chairperson
+6401,Dr. Gurudas Mondal,Mathematics,200000,Chairperson
+4501,Dr. Fouzia Mannan,Sociology,200000,Chairperson
+4601,Dr. Md. Mobarak Hossain Khan,PPHS,200000,Chairperson
